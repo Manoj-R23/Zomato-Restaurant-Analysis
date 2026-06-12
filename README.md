@@ -65,3 +65,30 @@ online delivery impact, and pricing patterns.
 Restaurants with online delivery score 0.79 points higher 
 in ratings than those without — suggesting online delivery 
 strongly correlates with better customer satisfaction!
+
+---
+
+## 📊 Chart Previews
+
+### Top 10 Cities
+![Top Cities](chart1_top_cities.png)
+
+### Top 10 Cuisines
+![Top Cuisines](chart2_top_cuisines.png)
+
+### Rating Distribution
+![Rating Distribution](chart3_rating_distribution.png)
+
+### Rating by Price Range
+![Rating by Price](chart4_rating_by_price.png)
+
+### Votes vs Rating
+![Votes vs Rating](chart5_votes_rating.png)
+
+### City vs Online Delivery Heatmap
+![Heatmap](chart6_heatmap.png)
+
+---
+
+## 🔗 Google Colab Notebook
+[Click here to view notebook]https://colab.research.google.com/drive/1Q-bOIQyeiYE8mSGoIsoZWs2pDtNqsfZi?usp=sharing
