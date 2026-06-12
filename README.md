@@ -77,7 +77,7 @@ strongly correlates with better customer satisfaction!
 ![Top Cuisines](chart2_top_cuisines.png)
 
 ### Rating Distribution
-![Rating Distribution](chart3_rating_distribution.png)
+![Rating Distribution](chart3_rating_dist.png)
 
 ### Rating by Price Range
 ![Rating by Price](chart4_rating_by_price.png)
@@ -91,4 +91,4 @@ strongly correlates with better customer satisfaction!
 ---
 
 ## 🔗 Google Colab Notebook
-[Click here to view notebook]https://colab.research.google.com/drive/1Q-bOIQyeiYE8mSGoIsoZWs2pDtNqsfZi?usp=sharing
+[Click here to view notebook](https://colab.research.google.com/drive/1Q-bOIQyeiYE8mSGoIsoZWs2pDtNqsfZi?usp=sharing)
